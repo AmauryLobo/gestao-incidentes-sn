@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6ef30384c369cf50856af0477d013174" label="Incidentes ocorridos" max_length="40" name="x_1319177_gest_o_0_incidentes_ocorridos" type="collection">
+        <element label="Outra sub-categoria" max_length="40" name="outra_sub_categoria" type="string"/>
+        <element label="Solicitante" max_length="40" name="solicitante" type="string"/>
+        <element label="Resolução" max_length="60" name="resolucao" type="string"/>
+        <element label="Atribuído a" max_length="32" name="atribuido_a" reference="sys_user" type="reference"/>
+        <element label="Outra categoria" max_length="40" name="outra_categoria" type="string"/>
+        <element label="Descrição" max_length="60" name="descricao" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Número" max_length="40" name="number" read_only="true" type="string" use_dynamic_default="true"/>
+        <element label="Data de abertura" max_length="40" name="data_de_abertura" type="glide_date_time"/>
+        <element label="E-mail" max_length="40" name="e_mail" type="string"/>
+        <element choice="3" label="Prioridade" max_length="40" name="prioridade" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Crítica" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Baixa" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Alta" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Média" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element choice="3" label="Impacto" max_length="40" name="impacto" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Alto" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Médio" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Baixo" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element label="Data de resolução" max_length="40" name="data_de_resolucao" type="glide_date_time"/>
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cancelado" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="Resolvido" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Aberto" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Em andamento" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Fechado" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <element choice="3" label="Urgência" max_length="40" name="urgencia" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Baixa" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Alta" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Média" sequence="1" value="2"/>
+            </choice>
+        </element>
+        <element choice="3" label="Categoria" max_length="40" name="categoria" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Hardware" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Acesso" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Software" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Outro" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="Rede" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element choice="3" label="Sub-categoria" max_length="40" name="sub_categoria" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Impressora" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Computador/Notebook" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Outro" sequence="5" value="6"/>
+                <element inactive_on_update="false" label="Conexão/VPN" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Reset de Senha" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="Sistema/Aplicativo" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="atribuido_a"/>
+        </index>
+    </element>
+</database>

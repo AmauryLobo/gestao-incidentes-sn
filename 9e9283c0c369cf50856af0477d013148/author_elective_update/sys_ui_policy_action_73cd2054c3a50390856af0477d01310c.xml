@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>sub_categoria</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-14 00:45:06</sys_created_on>
+        <sys_id>73cd2054c3a50390856af0477d01310c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sub_categoria</sys_name>
+        <sys_package display_value="Gestão de Incidentes" source="x_1319177_gest_o_0">9e9283c0c369cf50856af0477d013148</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</sys_scope>
+        <sys_update_name>sys_ui_policy_action_73cd2054c3a50390856af0477d01310c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-14 00:45:06</sys_updated_on>
+        <table>x_1319177_gest_o_0_incidentes_ocorridos</table>
+        <ui_policy display_value="Tornar campo obrigatório">73cd2054c3a50390856af0477d013104</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=73cd2054c3a50390856af0477d01310c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</application>
+        <file_path/>
+        <instance_id>be28c119fb786ed40c92f633beefdca4</instance_id>
+        <instance_name>dev321173</instance_name>
+        <name>sys_ui_policy_action_73cd2054c3a50390856af0477d01310c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>sub_categoria</field><field_message/><field_message_type>none</field_message_type><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-14 00:45:06</sys_created_on><sys_id>73cd2054c3a50390856af0477d01310c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sub_categoria</sys_name><sys_package display_value="Gestão de Incidentes" source="x_1319177_gest_o_0">9e9283c0c369cf50856af0477d013148</sys_package><sys_policy/><sys_scope display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</sys_scope><sys_update_name>sys_ui_policy_action_73cd2054c3a50390856af0477d01310c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-14 00:45:06</sys_updated_on><table>x_1319177_gest_o_0_incidentes_ocorridos</table><ui_policy display_value="Tornar campo obrigatório">73cd2054c3a50390856af0477d013104</ui_policy><value/><value_action>ignore</value_action><visible>ignore</visible></sys_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=73cd2054c3a50390856af0477d01310c"/></record_update>]]></payload>
+        <payload_hash>1362473025</payload_hash>
+        <record_name>sub_categoria</record_name>
+        <reverted_from/>
+        <source>129283c0c369cf50856af0477d013150</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-14 00:45:06</sys_created_on>
+        <sys_id>bfcd2054c3a50390856af0477d01311b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ec396e56f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-14 00:45:06</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>b7cd205446a503901d9401a44d7b620e</update_guid>
+        <update_guid_history>b7cd205446a503901d9401a44d7b620e:1362473025</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-14 01:07:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>ac2e55eaba3240a79b6b89973b0e6ce1</sys_id>
+        <sys_metadata>73cd2054c3a50390856af0477d01310c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sub_categoria</sys_name>
+        <sys_package display_value="Gestão de Incidentes" source="x_1319177_gest_o_0">9e9283c0c369cf50856af0477d013148</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</sys_scope>
+        <sys_scope_delete display_value="">10e89e8099cc4d72a00dc0fd7d534cc4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_73cd2054c3a50390856af0477d01310c</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_73cd2054c3a50390856af0477d01310c">bfcd2054c3a50390856af0477d01311b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-14 01:07:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
