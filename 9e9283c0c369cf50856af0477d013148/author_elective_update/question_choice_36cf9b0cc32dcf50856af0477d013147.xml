@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Urgência">477f130cc32dcf50856af0477d0131cb</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-13 19:04:14</sys_created_on>
+        <sys_id>36cf9b0cc32dcf50856af0477d013147</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Média</sys_name>
+        <sys_package display_value="Gestão de Incidentes" source="x_1319177_gest_o_0">9e9283c0c369cf50856af0477d013148</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</sys_scope>
+        <sys_update_name>question_choice_36cf9b0cc32dcf50856af0477d013147</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-13 19:04:14</sys_updated_on>
+        <text>Média</text>
+        <value>media</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=36cf9b0cc32dcf50856af0477d013147"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</application>
+        <file_path/>
+        <instance_id>be28c119fb786ed40c92f633beefdca4</instance_id>
+        <instance_name>dev321173</instance_name>
+        <name>question_choice_36cf9b0cc32dcf50856af0477d013147</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>200</order><published_ref/><question display_value="Urgência">477f130cc32dcf50856af0477d0131cb</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-13 19:04:14</sys_created_on><sys_id>36cf9b0cc32dcf50856af0477d013147</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Média</sys_name><sys_package display_value="Gestão de Incidentes" source="x_1319177_gest_o_0">9e9283c0c369cf50856af0477d013148</sys_package><sys_policy/><sys_scope display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</sys_scope><sys_update_name>question_choice_36cf9b0cc32dcf50856af0477d013147</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-13 19:04:14</sys_updated_on><text>Média</text><value>media</value></question_choice><fx_price action="delete_multiple" query="id=36cf9b0cc32dcf50856af0477d013147"/></record_update>]]></payload>
+        <payload_hash>-395402940</payload_hash>
+        <record_name>Média</record_name>
+        <reverted_from/>
+        <source>129283c0c369cf50856af0477d013150</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-13 19:04:14</sys_created_on>
+        <sys_id>76cf9b0cc32dcf50856af0477d01316f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ec25ed3840000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-13 19:04:14</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>32cf9b0ca62dcf50e08b34c2c3db6e6e</update_guid>
+        <update_guid_history>32cf9b0ca62dcf50e08b34c2c3db6e6e:-395402940</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Média">b914e384c36dcf50856af0477d0131ed</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-13 19:23:01</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>679e61ff8f1646a08c4e802615e1ba40</sys_id>
+        <sys_metadata>36cf9b0cc32dcf50856af0477d013147</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Média</sys_name>
+        <sys_package display_value="Gestão de Incidentes" source="x_1319177_gest_o_0">9e9283c0c369cf50856af0477d013148</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</sys_scope>
+        <sys_scope_delete display_value="">10e89e8099cc4d72a00dc0fd7d534cc4</sys_scope_delete>
+        <sys_update_name>question_choice_36cf9b0cc32dcf50856af0477d013147</sys_update_name>
+        <sys_update_version display_value="question_choice_36cf9b0cc32dcf50856af0477d013147">76cf9b0cc32dcf50856af0477d01316f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-13 19:23:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

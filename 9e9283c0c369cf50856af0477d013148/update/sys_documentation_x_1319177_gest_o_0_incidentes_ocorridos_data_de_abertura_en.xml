@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="data_de_abertura" label="Data de abertura" language="en" table="x_1319177_gest_o_0_incidentes_ocorridos">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>data_de_abertura</element>
+            <help/>
+            <hint/>
+            <label>Data de abertura</label>
+            <language>en</language>
+            <name>x_1319177_gest_o_0_incidentes_ocorridos</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-13 17:28:28</sys_created_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Data de abertura</sys_name>
+            <sys_package display_value="Gestão de Incidentes" source="x_1319177_gest_o_0">9e9283c0c369cf50856af0477d013148</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</sys_scope>
+            <sys_update_name>sys_documentation_x_1319177_gest_o_0_incidentes_ocorridos_data_de_abertura_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-14 01:12:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

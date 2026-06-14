@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="Categoria">405c5f44c32dcf50856af0477d013131</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-13 18:54:03</sys_created_on>
+        <sys_id>a57d1308c32dcf50856af0477d013111</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rede</sys_name>
+        <sys_package display_value="Gestão de Incidentes" source="x_1319177_gest_o_0">9e9283c0c369cf50856af0477d013148</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</sys_scope>
+        <sys_update_name>question_choice_a57d1308c32dcf50856af0477d013111</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-13 18:54:03</sys_updated_on>
+        <text>Rede</text>
+        <value>3</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=a57d1308c32dcf50856af0477d013111"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</application>
+        <file_path/>
+        <instance_id>be28c119fb786ed40c92f633beefdca4</instance_id>
+        <instance_name>dev321173</instance_name>
+        <name>question_choice_a57d1308c32dcf50856af0477d013111</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>300</order><published_ref/><question display_value="Categoria">405c5f44c32dcf50856af0477d013131</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-13 18:54:03</sys_created_on><sys_id>a57d1308c32dcf50856af0477d013111</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Rede</sys_name><sys_package display_value="Gestão de Incidentes" source="x_1319177_gest_o_0">9e9283c0c369cf50856af0477d013148</sys_package><sys_policy/><sys_scope display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</sys_scope><sys_update_name>question_choice_a57d1308c32dcf50856af0477d013111</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-13 18:54:03</sys_updated_on><text>Rede</text><value>3</value></question_choice><fx_price action="delete_multiple" query="id=a57d1308c32dcf50856af0477d013111"/></record_update>]]></payload>
+        <payload_hash>-36589273</payload_hash>
+        <record_name>Rede</record_name>
+        <reverted_from/>
+        <source>129283c0c369cf50856af0477d013150</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-13 18:54:03</sys_created_on>
+        <sys_id>217d1308c32dcf50856af0477d013146</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ec2557f750000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-13 18:54:03</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>e97d1308ce2dcf50066562598518ba44</update_guid>
+        <update_guid_history>e97d1308ce2dcf50066562598518ba44:-36589273</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Rede">c4f32f44c36dcf50856af0477d013199</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-13 19:22:21</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>2cf74e9e75cc4e5eb10c27fbca7d6061</sys_id>
+        <sys_metadata>a57d1308c32dcf50856af0477d013111</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rede</sys_name>
+        <sys_package display_value="Gestão de Incidentes" source="x_1319177_gest_o_0">9e9283c0c369cf50856af0477d013148</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</sys_scope>
+        <sys_scope_delete display_value="">10e89e8099cc4d72a00dc0fd7d534cc4</sys_scope_delete>
+        <sys_update_name>question_choice_a57d1308c32dcf50856af0477d013111</sys_update_name>
+        <sys_update_version display_value="question_choice_a57d1308c32dcf50856af0477d013111">217d1308c32dcf50856af0477d013146</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-13 19:22:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

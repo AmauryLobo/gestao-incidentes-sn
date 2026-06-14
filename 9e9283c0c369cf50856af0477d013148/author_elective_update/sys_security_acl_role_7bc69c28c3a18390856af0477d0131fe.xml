@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-14 17:43:06</sys_created_on>
+        <sys_id>7bc69c28c3a18390856af0477d0131fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1319177_gest_o_0_teste.x_1319177_gest_o_0.user</sys_name>
+        <sys_package display_value="Gestão de Incidentes" source="x_1319177_gest_o_0">9e9283c0c369cf50856af0477d013148</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</sys_scope>
+        <sys_security_acl display_value="x_1319177_gest_o_0_teste">77c69c28c3a18390856af0477d0131f9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7bc69c28c3a18390856af0477d0131fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-14 17:43:06</sys_updated_on>
+        <sys_user_role display_value="x_1319177_gest_o_0.user" name="x_1319177_gest_o_0.user">929283c0c369cf50856af0477d013198</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</application>
+        <file_path/>
+        <instance_id>be28c119fb786ed40c92f633beefdca4</instance_id>
+        <instance_name>dev321173</instance_name>
+        <name>sys_security_acl_role_7bc69c28c3a18390856af0477d0131fe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-14 17:43:06</sys_created_on><sys_id>7bc69c28c3a18390856af0477d0131fe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1319177_gest_o_0_teste.x_1319177_gest_o_0.user</sys_name><sys_package display_value="Gestão de Incidentes" source="x_1319177_gest_o_0">9e9283c0c369cf50856af0477d013148</sys_package><sys_policy/><sys_scope display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</sys_scope><sys_security_acl display_value="x_1319177_gest_o_0_teste">77c69c28c3a18390856af0477d0131f9</sys_security_acl><sys_update_name>sys_security_acl_role_7bc69c28c3a18390856af0477d0131fe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-14 17:43:06</sys_updated_on><sys_user_role display_value="x_1319177_gest_o_0.user" name="x_1319177_gest_o_0.user">929283c0c369cf50856af0477d013198</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>2092984418</payload_hash>
+        <record_name>x_1319177_gest_o_0_teste.x_1319177_gest_o_0.user</record_name>
+        <reverted_from/>
+        <source>129283c0c369cf50856af0477d013150</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-14 17:43:06</sys_created_on>
+        <sys_id>7bc6dc28c3a18390856af0477d013135</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ec73ae5d10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-14 17:43:06</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>3bc6dc28a6a183907198b53a85731734</update_guid>
+        <update_guid_history>3bc6dc28a6a183907198b53a85731734:2092984418</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1319177_gest_o_0_teste.x_1319177_gest_o_0.user">6c5a5cecc3a18390856af0477d0131bf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-14 17:58:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>69c1aeab92214b249cd83128020ed724</sys_id>
+        <sys_metadata>7bc69c28c3a18390856af0477d0131fe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1319177_gest_o_0_teste.x_1319177_gest_o_0.user</sys_name>
+        <sys_package display_value="Gestão de Incidentes" source="x_1319177_gest_o_0">9e9283c0c369cf50856af0477d013148</sys_package>
+        <sys_parent display_value="">77c69c28c3a18390856af0477d0131f9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</sys_scope>
+        <sys_scope_delete display_value="">10e89e8099cc4d72a00dc0fd7d534cc4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_7bc69c28c3a18390856af0477d0131fe</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_7bc69c28c3a18390856af0477d0131fe">7bc6dc28c3a18390856af0477d013135</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-14 17:58:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

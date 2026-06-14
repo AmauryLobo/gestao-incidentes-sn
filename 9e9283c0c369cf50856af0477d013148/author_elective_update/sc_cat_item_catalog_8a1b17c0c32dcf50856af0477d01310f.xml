@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Registro de incidentes">a1c91b00c32dcf50856af0477d01311f</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-13 18:43:43</sys_created_on>
+        <sys_id>8a1b17c0c32dcf50856af0477d01310f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Registro de incidentes</sys_name>
+        <sys_package display_value="Gestão de Incidentes" source="x_1319177_gest_o_0">9e9283c0c369cf50856af0477d013148</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_8a1b17c0c32dcf50856af0477d01310f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-13 18:43:43</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</application>
+        <file_path/>
+        <instance_id>be28c119fb786ed40c92f633beefdca4</instance_id>
+        <instance_name>dev321173</instance_name>
+        <name>sc_cat_item_catalog_8a1b17c0c32dcf50856af0477d01310f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Registro de incidentes">a1c91b00c32dcf50856af0477d01311f</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-13 18:43:43</sys_created_on><sys_id>8a1b17c0c32dcf50856af0477d01310f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Registro de incidentes</sys_name><sys_package display_value="Gestão de Incidentes" source="x_1319177_gest_o_0">9e9283c0c369cf50856af0477d013148</sys_package><sys_policy/><sys_scope display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</sys_scope><sys_update_name>sc_cat_item_catalog_8a1b17c0c32dcf50856af0477d01310f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-13 18:43:43</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1914789865</payload_hash>
+        <record_name>Service Catalog.Registro de incidentes</record_name>
+        <reverted_from/>
+        <source>129283c0c369cf50856af0477d013150</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-13 18:43:43</sys_created_on>
+        <sys_id>ce1b17c0c32dcf50856af0477d013114</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ec24c08390000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-13 18:43:43</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>8a1b17c0da2dcf50ea5b16a5e6ad4113</update_guid>
+        <update_guid_history>8a1b17c0da2dcf50ea5b16a5e6ad4113:-1914789865</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Registro de incidentes">9c5bdbc0c32dcf50856af0477d0131c0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-13 18:44:41</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>042bf7030ea4431f80161e8dc2380e89</sys_id>
+        <sys_metadata>8a1b17c0c32dcf50856af0477d01310f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Registro de incidentes</sys_name>
+        <sys_package display_value="Gestão de Incidentes" source="x_1319177_gest_o_0">9e9283c0c369cf50856af0477d013148</sys_package>
+        <sys_parent display_value="Registro de incidentes">a1c91b00c32dcf50856af0477d01311f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Incidentes">9e9283c0c369cf50856af0477d013148</sys_scope>
+        <sys_scope_delete display_value="">10e89e8099cc4d72a00dc0fd7d534cc4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_8a1b17c0c32dcf50856af0477d01310f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_8a1b17c0c32dcf50856af0477d01310f">ce1b17c0c32dcf50856af0477d013114</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-13 18:44:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
